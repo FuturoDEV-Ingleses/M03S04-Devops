@@ -11,3 +11,5 @@
     - orquestradores de containers:
         - Amazon ECS
         - Kubernetes
+- aula 4:
+    - Esteira de CICD com Github Actions        
